@@ -50,11 +50,3 @@ Program ini dibuat untuk memenuhi Tugas Kecil 3 IF2211 Strategi Algoritma Progra
    ```
 4. Pilih simpul asal dan simpul tujuan
 5. Program akan menampilkan lintasan terpendek dan jarak yang harus ditempuh
-
-## Status
-Project is: _finished_
-
-## Contact
-Created by  
-[13519181 - Nabilah Erfariani](https://github.com/nabilaherfar)  
-[13519192 - Gayuh Tri Rahutami](https://github.com/wundersmith)
